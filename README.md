@@ -1,6 +1,6 @@
 # wechat-protocol
 微信协议，pad协议，微信协议，Ipad协议、MAC协议、Windows协议，微信iPad协议849，微信iPad协议853，微信iPad协议855，微信iPad协议859，微信iPad协议860，支持Java，Python，Node等调用方式
-
+2025年10月15日 最新Mac登录，Ipad登录大部分可登录上
 ###**QQ: 307337963** **免费**拿接口测试地址
 ### 上午九点半到下午6点联系 其他时间可能没空
 ## 功能介绍 
